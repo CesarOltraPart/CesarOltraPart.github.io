@@ -1,0 +1,29 @@
+body {
+    background-color:  cornflowerblue;
+    align-items: center;
+}
+header {
+    align-items: center;
+    text-align: center;
+    background-color: lavender;
+    border: black;
+    border-width: 3px;
+}
+main {
+    text-align: center;
+    background-color: lavender;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    border: black;
+    border-width: 3px;
+}
+article {
+    background-color: #CCCCFF;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: black;
+    border-width: 3px;
+}
